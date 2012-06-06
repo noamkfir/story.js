@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "story.js", "story.js\story.js.csproj", "{2AD91A69-FF23-49AA-A01E-0CE1175114A6}"
 EndProject
 Global
